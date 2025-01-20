@@ -1,0 +1,35 @@
+/* Pinar FontFace */
+@font-face {
+    font-family: 'Pinar';
+    src: url('./fonts/Pinar/PINAR-EXTRABOLD.TTF') format('ttf');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Pinar';
+    src: url('./fonts/Pinar/PINAR-MEDIUM.TTF') format('ttf');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Pinar';
+    src: url('./fonts/Pinar/PINAR-REGULAR.TTF') format('ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Pinar';
+    src: url('../Font-fa/fonts/Pinar/PINAR-BOLD.TTF') format('ttf');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Pinar';
+    src: url('./fonts/Pinar/PINAR-LIGHT.TTF') format('ttf');
+    font-weight: lighter;
+    font-style: normal;
+}
