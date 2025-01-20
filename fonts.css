@@ -62,3 +62,47 @@
     font-weight: normal;
     font-style: italic;
 }
+
+/* Morabba FontFace */
+
+@font-face {
+    font-family: 'Morabba';
+    src: url('./fonts/Morabba/Morabba-Regular.ttf') format('ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Morabba';
+    src: url('./fonts/Morabba/Morabba-UltraLight.ttf') format('ttf');
+    font-weight: 200;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Morabba';
+    src: url('./fonts/Morabba/Morabba-Light.ttf') format('ttf');
+    font-weight: lighter;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Morabba';
+    src: url('./fonts/Morabba/Morabba-Bold.ttf') format('ttf');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Morabba';
+    src: url('./fonts/Morabba/Morabba-Heavy.ttf') format('ttf');
+    font-weight: 800;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Morabba';
+    src: url('./fonts/Morabba/Morabba-Black.ttf') format('ttf');
+    font-weight: 900;
+    font-style: normal;
+}
