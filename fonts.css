@@ -33,3 +33,32 @@
     font-weight: lighter;
     font-style: normal;
 }
+
+/* Yekanbakh FontFace */
+@font-face {
+    font-family: 'Yekanbakh';
+    src: url('./fonts/YekanBakh/YekanBakh-Bold.ttf') format('ttf');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Yekanbakh';
+    src: url('./fonts/YekanBakh/YekanBakh-Light.ttf') format('ttf');
+    font-weight: lighter;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Yekanbakh';
+    src: url('./fonts/YekanBakh/YekanBakh-Regular.ttf') format('ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Yekanbakh';
+    src: url('./fonts/YekanBakh/YekanBakh-Hairline.ttf') format('ttf');
+    font-weight: normal;
+    font-style: italic;
+}
