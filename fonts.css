@@ -1,35 +1,35 @@
 /* Pinar FontFace */
 @font-face {
     font-family: 'Pinar';
-    src: url('./fonts/Pinar/PINAR-EXTRABOLD.TTF') format('ttf');
+    src: url('./fonts/Pinar/PINAR-EXTRABOLD.TTF') format('truetype');
     font-weight: 900;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'Pinar';
-    src: url('./fonts/Pinar/PINAR-MEDIUM.TTF') format('ttf');
+    src: url('./fonts/Pinar/PINAR-MEDIUM.TTF') format('truetype');
     font-weight: 400;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'Pinar';
-    src: url('./fonts/Pinar/PINAR-REGULAR.TTF') format('ttf');
+    src: url('./fonts/Pinar/PINAR-REGULAR.TTF') format('truetype');
     font-weight: normal;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'Pinar';
-    src: url('../Font-fa/fonts/Pinar/PINAR-BOLD.TTF') format('ttf');
+    src: url('./fonts/Pinar/PINAR-BOLD.TTF') format('truetype');
     font-weight: bold;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'Pinar';
-    src: url('./fonts/Pinar/PINAR-LIGHT.TTF') format('ttf');
+    src: url('./fonts/Pinar/PINAR-LIGHT.TTF') format('truetype');
     font-weight: lighter;
     font-style: normal;
 }
@@ -37,72 +37,71 @@
 /* Yekanbakh FontFace */
 @font-face {
     font-family: 'Yekanbakh';
-    src: url('./fonts/YekanBakh/YekanBakh-Bold.ttf') format('ttf');
+    src: url('./fonts/YekanBakh/YekanBakh-Bold.ttf') format('truetype');
     font-weight: bold;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'Yekanbakh';
-    src: url('./fonts/YekanBakh/YekanBakh-Light.ttf') format('ttf');
+    src: url('./fonts/YekanBakh/YekanBakh-Light.ttf') format('truetype');
     font-weight: lighter;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'Yekanbakh';
-    src: url('./fonts/YekanBakh/YekanBakh-Regular.ttf') format('ttf');
+    src: url('./fonts/YekanBakh/YekanBakh-Regular.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'Yekanbakh';
-    src: url('./fonts/YekanBakh/YekanBakh-Hairline.ttf') format('ttf');
+    src: url('./fonts/YekanBakh/YekanBakh-Hairline.ttf') format('truetype');
     font-weight: normal;
     font-style: italic;
 }
 
 /* Morabba FontFace */
-
 @font-face {
     font-family: 'Morabba';
-    src: url('./fonts/Morabba/Morabba-Regular.ttf') format('ttf');
+    src: url('./fonts/Morabba/Morabba-Regular.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'Morabba';
-    src: url('./fonts/Morabba/Morabba-UltraLight.ttf') format('ttf');
+    src: url('./fonts/Morabba/Morabba-UltraLight.ttf') format('truetype');
     font-weight: 200;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'Morabba';
-    src: url('./fonts/Morabba/Morabba-Light.ttf') format('ttf');
+    src: url('./fonts/Morabba/Morabba-Light.ttf') format('truetype');
     font-weight: lighter;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'Morabba';
-    src: url('./fonts/Morabba/Morabba-Bold.ttf') format('ttf');
+    src: url('./fonts/Morabba/Morabba-Bold.ttf') format('truetype');
     font-weight: bold;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'Morabba';
-    src: url('./fonts/Morabba/Morabba-Heavy.ttf') format('ttf');
+    src: url('./fonts/Morabba/Morabba-Heavy.ttf') format('truetype');
     font-weight: 800;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'Morabba';
-    src: url('./fonts/Morabba/Morabba-Black.ttf') format('ttf');
+    src: url('./fonts/Morabba/Morabba-Black.ttf') format('truetype');
     font-weight: 900;
     font-style: normal;
 }
